@@ -1,5 +1,4 @@
 '''
-Author:  Sairam Rakshith Bhyravabhotla
 
 1)Which Algorithm works best for each routing option?
 A: BFS and A*  are both equally best algorithms for segments. For distance,scenic and time, A* search 

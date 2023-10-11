@@ -20,6 +20,7 @@ To use this script, follow these steps:
 
 ```bash
 python Route.py [source_city] [destination_city] [routing_option] [routing_algorithm]
+(https://github.com/kushagrajoshi-ghub/Route.py/assets/85024946/5ceed271-3907-4a72-a6a6-f6eeb8f257bd)
 ```
 
 - Replace `[source_city]` with the starting city.

@@ -28,7 +28,8 @@ python Route.py [source_city] [destination_city] [routing_option] [routing_algor
 - Replace `[routing_option]` with one of the following options: `segments`, `distance`, `scenic`, or `time`.
 - Replace `[routing_algorithm]` with one of the following algorithms: `bfs`, `dfs`, `astar`, or `ids`.
 
-##Implementation
+## Implementation
+
 ![Screenshot (40)](https://github.com/kushagrajoshi-ghub/Route.py/assets/85024946/12854ae8-4533-4e9e-a353-814acc8a013f)
 
 

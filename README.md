@@ -43,6 +43,10 @@ The script will provide you with the following information:
 4. Details about the heuristic function used for route calculation.
 5. The farthest city from the starting city.
 
+<img width="2842" height="1245" alt="image" src="https://github.com/user-attachments/assets/15f50724-3c03-4a46-8c16-bba3211a37c6" />
+<img width="1332" height="671" alt="Screenshot 2025-10-22 at 5 00 56 PM" src="https://github.com/user-attachments/assets/bb0fde36-205f-4b48-b7ae-48b02a556b0a" />
+
+
 ## Scope of Improvements
 
 The script has room for improvement, such as implementing bidirectional search to optimize pathfinding for certain cases.
